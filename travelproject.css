@@ -1,0 +1,132 @@
+
+/* navigation */
+.navigation{
+    background-color: rgb(30, 14, 45);
+    position: sticky !important;
+    top: 0px !important;
+    z-index: 100 !important;
+}
+.navbar-brand{
+    color: red !important;
+}
+.nav-link{
+    color: rgb(245, 203, 139) !important;
+}
+
+
+/* HomeCarousel */
+.d-block{
+    height: 95vh !important;
+}
+.carousel-item{
+    height: 95vh;
+    background-position: contain !important;
+    
+    
+}
+#para{
+    color: rgb(210, 170, 110);
+}
+#head{
+    color: rgb(251, 229, 195);
+}
+
+
+
+/* section */
+#head{
+    color: rgb(251, 229, 195);
+}
+.background{
+    font-size: 25px;
+    color: rgb(201, 153, 246);
+    background-image: url(../image/bg-4.jpg) !important;
+    background-size: contain;
+    background-position: bottom;
+    background-attachment: fixed;
+}
+
+
+/* food */
+.food{
+    height: 210vh;
+    background-color: rgb(57, 22, 90);
+}
+.belowcards{
+    background-color: rgb(57, 22, 90);
+}
+.card{
+    background-color: rgb(251, 229, 195);
+    color: rgb(30, 14, 45);
+    text-align: center;
+}
+#card1{
+    height: 30vh;
+}
+.heading{
+    color: rgb(210, 170, 110);
+}
+.maincard{
+    position: relative;
+    left: 280px;
+    background-color: rgb(251, 229, 195);
+    color: rgb(30, 14, 45);
+}
+
+
+/* rooms */
+#room-service{
+    height: 200vh !important;
+    color: rgb(57, 22, 90) !important;
+    background-color:rgb(207, 171, 117) !important;
+}
+.room-width{
+    width: 10 !important;
+}
+.r-blocks{
+    /* border: 2px solid black !important; */
+    height: 43%;
+}
+
+
+/* bar */
+#bar-service{
+    height: 220vh !important;
+    color: rgb(210, 170, 110) !important;
+    background-color:rgb(57, 22, 90) !important;
+}
+.bar-width{
+    width: 10 !important;
+}
+.b-blocks{
+    /* border: 2px solid black !important; */
+    height: 43%;
+}
+
+
+#dd-menu{
+    position: absolute !important;
+    top: 55px !important;
+    left: 985px !important;
+
+}
+
+
+
+/* footer */
+#welcome{
+    background-color: rgb(207, 171, 117) !important;
+    color: rgb(57, 22, 90) !important;
+}
+.welcome{
+    font-size: 25px;
+    color: rgb(254, 225, 183);
+    background-image: url(../image/bg-s-2.jpg) !important;
+    background-size: cover;
+    background-position: bottom;
+}
+.aboutus{
+    background-color: rgb(63, 29, 95);
+    color: rgb(207, 171, 117);
+    /* font-size: 5px !important; */
+}
